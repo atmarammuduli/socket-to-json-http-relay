@@ -1,0 +1,18 @@
+{
+  "name": "imorelay",
+  "version": "1.0.0",
+  "description": "Proxy MDT http request to IMO socket",
+  "main": "relay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atmaram Muduli",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {}
+}
